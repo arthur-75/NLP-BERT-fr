@@ -23,7 +23,7 @@ Nous comprenions bien le cours
 
 tokenisé en :
 
-'<s>', 'Nous</w>', 'compren', 'ions</w>', 'bien</w>', 'le</w>', 'cours</w>', '.</w>, '</s>'
+"'<s>', 'Nous</w>', 'compren', 'ions</w>', 'bien</w>', 'le</w>', 'cours</w>', '.</w>, '</s>'"
 
 vous utiliserez le vecteur caché du sous-mot "compren".
 
